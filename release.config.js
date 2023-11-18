@@ -1,7 +1,7 @@
 //release.config.js
 module.exports = {
     // 在什麼分支下，要執行 semantic-release
-    branches: ['main'],
+    branches: ['main','master'],
     plugins: [
       '@semantic-release/commit-analyzer',//分析你的 commit message,有沒有 feat or fix
       '@semantic-release/release-notes-generator',
