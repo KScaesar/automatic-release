@@ -1,0 +1,19 @@
+{
+  "name": "automatic-release",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KScaesar/automatic-release.git"
+  },
+  "author": "ksCaesar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KScaesar/automatic-release/issues"
+  },
+  "homepage": "https://github.com/KScaesar/automatic-release#readme"
+}
